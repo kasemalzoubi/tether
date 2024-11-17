@@ -14,4 +14,4 @@ https://github.com/zackradisic/tether/assets/56137411/5b47f546-39af-413b-a29e-fd
 
 ## In-progress
 - LSP support
-- JS/TS scripting support
+- JS/TS scripting suppo  
